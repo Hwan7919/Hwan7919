@@ -5,10 +5,13 @@ I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learni
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch&logoColor=white)
-- **Programming Languages**: Python
-- **Deep Learning Frameworks**: PyTorch
-- **Tools**: Jupyter Notebook, Docker, Git
+![YOLO](https://img.shields.io/badge/Framework-YOLO-yellow?logo=yolo&logoColor=white)
+![MMDetection](https://img.shields.io/badge/Framework-MMDetection-blue?logo=apachemaven&logoColor=white)
 
+- **Programming Languages**: Python
+- **Deep Learning Frameworks**: PyTorch, YOLO, MMDetection, Stable Diffusion
+- **Tools**: Jupyter Notebook, Docker, Git, Linux, CAD, Revit
+- 
 ## 🌟 Featured Projects
 - [SogangUpstageProject](https://github.com/Hwan7919/SogangUpstageProject): How to detect human emotion by KoBERT & Solar LLM Model
 - [ObjectDetection](https://github.com/Hwan7919/ObjectDetection): A project focused on Object Detection, aiming to achieve optimal performance by leveraging various deep learning models and data.
