@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Hwan
 
-<!--
-**Hwan7919/Hwan7919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learning. I am dedicated to continuous learning and growth through various projects, and I enjoy sharing my progress and projects here on GitHub.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Programming Languages**: Python
+- **Deep Learning Frameworks**: PyTorch
+- **Tools**: Jupyter Notebook, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning [ML/DL]
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- [SogangUpstageProject](https://github.com/Hwan7919/SogangUpstageProject): How to detect human emotion by KoBERT & Solar LLM Model
+- [ObjectDetection](https://github.com/Hwan7919/ObjectDetection): A project focused on Object Detection, aiming to achieve optimal performance by leveraging various deep learning models and data.
+
+## 📊 GitHub Stats
+![Hwan7919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwan7919&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwan7919&layout=compact&theme=radical)
+
+## 📫 Contact
+- **Email**: [hwan7919@gmail.com](mailto:hwan7919@gmail.com)
+- **Velog**: [https://velog.io/@hwan7919/posts](https://velog.io/@hwan7919/posts)
