@@ -3,9 +3,11 @@
 I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learning. I am dedicated to continuous learning and growth through various projects, and I enjoy sharing my progress and projects here on GitHub.
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Tool-Docker-blue?logo=docker&logoColor=white)
+- **Programming Languages**: Python
+- **Deep Learning Frameworks**: PyTorch
+- **Tools**: Jupyter Notebook, Docker, Git
 
 ## 🌟 Featured Projects
 - [SogangUpstageProject](https://github.com/Hwan7919/SogangUpstageProject): How to detect human emotion by KoBERT & Solar LLM Model
