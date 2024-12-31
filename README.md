@@ -14,7 +14,7 @@ I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learni
 - 
 ## 🌟 Featured Projects
 - [SogangUpstageProject](https://github.com/Hwan7919/SogangUpstageProject): How to detect human emotion by KoBERT & Solar LLM Model
-- [ObjectDetection](https://github.com/Hwan7919/ObjectDetection): A project focused on Object Detection, aiming to achieve optimal performance by leveraging various deep learning models and data.
+- [Segmentation](https://github.com/Hwan7919/level2-cv-semanticsegmentation-cv-22-lv3): Hydra baseline code
 
 ## 📊 GitHub Stats
 ![Hwan7919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwan7919&show_icons=true&theme=radical)
