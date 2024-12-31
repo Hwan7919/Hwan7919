@@ -11,7 +11,7 @@ I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learni
 - **Programming Languages**: Python
 - **Deep Learning Frameworks**: PyTorch, YOLO, MMDetection, Stable Diffusion
 - **Tools**: Jupyter Notebook, Docker, Git, Linux, CAD, Revit
-- 
+
 ## 🌟 Featured Projects
 - [SogangUpstageProject](https://github.com/Hwan7919/SogangUpstageProject): How to detect human emotion by KoBERT & Solar LLM Model
 - [Segmentation](https://github.com/Hwan7919/level2-cv-semanticsegmentation-cv-22-lv3): Hydra baseline code
