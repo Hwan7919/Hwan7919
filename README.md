@@ -22,4 +22,3 @@ I have a deep interest in Computer Vision, AI, Deep Learning, and Machine Learni
 
 ## 📫 Contact
 - **Email**: [hwan7919@gmail.com](mailto:hwan7919@gmail.com)
-- **Velog**: [https://velog.io/@hwan7919/posts](https://velog.io/@hwan7919/posts)
